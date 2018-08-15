@@ -6578,6 +6578,7 @@ export type ShareOptions = {
     dialogTitle?: string;
     excludedActivityTypes?: Array<string>;
     tintColor?: string;
+    subject?: string;
 };
 
 export interface ShareStatic {
